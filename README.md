@@ -11,6 +11,8 @@ Run to Publish Topic "Kafka_Message" App Java Spring Boot:
 OK
 
 
+
+
 Run to Publish Topic "Kafka_User" App Java Spring Boot:
 # curl "http://127.0.0.1:8585/publish/user/user_caiocf/2019"
 OK
