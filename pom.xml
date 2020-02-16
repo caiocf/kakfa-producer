@@ -12,11 +12,12 @@
 	<groupId>br.com.caiocf.kakfa</groupId>
 	<artifactId>kakfa-producer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>kakfa-producer</name>
+	<description>Spring Boot Kafka Producer Example</description>
 
 	<properties>
 		<java.version>1.8</java.version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
 	<dependencies>
